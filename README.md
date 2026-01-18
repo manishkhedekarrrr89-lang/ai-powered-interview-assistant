@@ -20,7 +20,6 @@ Practice interview questions with **context-aware, professional answers** instan
 2. Chooses experience level, domain, and answer length.  
 3. Clicks **Generate Answer**.  
 4. The app calls the **Ollama Mistral** LLM model locally to generate an AI-powered answer.  
-5. Answer is displayed and can be copied to clipboard.
 
 
 
@@ -50,4 +49,5 @@ Practice interview questions with **context-aware, professional answers** instan
    Ollama pull mistral      
 
 5. Run Streamlit app:
+
    streamlit run app.py   
